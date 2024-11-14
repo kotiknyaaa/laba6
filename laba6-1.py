@@ -37,9 +37,7 @@ else:
 
     for k in range(posotric1+1,posotric2):
         summa+=sp[k]
-    print(mx)
-    print(pos)
-    print(posotric1)
-    print(posotric2)
+
+
     print("Произведение эл-ов списка после макс. эл-а:", proizv,sep=" ")
     print("Сумма эл-ов списка между отрицательными эл-ами:", summa,sep=" ")
