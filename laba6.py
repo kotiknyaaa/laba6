@@ -1,4 +1,4 @@
-text=input("Введите ваш текст:")
+text =input("Введите ваш текст:")
 count=0
 if (")" not in text) and ("(" not in text):
     print("Скобки отсутствуют!")
